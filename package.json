@@ -5,6 +5,8 @@
   "scripts": {
       "start": "node buildScript/srcServer.js"
 
+
+
   },
   "author": "Chan Chung",
   "license": "MIT",
